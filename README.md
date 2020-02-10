@@ -12,12 +12,9 @@ Access and update the system brightness on a device.
 
 Install with [yarn](https://yarnpkg.com) or [npm](https://www.npmjs.com).
 
-```shell
-yarn add react-native-screen-brightness
-```
 
 ```shell
-npm i --save react-native-screen-brightness
+npm i --save react-native-screen-brightness-thinkout
 ```
 
 ## Example
