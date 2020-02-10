@@ -107,6 +107,7 @@ public class ScreenBrightnessModule extends ReactContextBaseJavaModule
     /**
      * Invokes the request permission activity to request access for WRITE_SETTINGS.
      */
+     @ReactMethod
     private void requestSettingsPermission() {
         ReactApplicationContext application = getReactApplicationContext();
 
